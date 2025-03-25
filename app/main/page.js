@@ -28,7 +28,7 @@ const page = () => {
                         Hello Username
                     </p>
                     <p className="my-4 text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 animate-gradient">
-                        What you want to lern?
+                        What you want to learn?
                     </p>
                     <style jsx>{ `
         @keyframes gradientAnimation {
